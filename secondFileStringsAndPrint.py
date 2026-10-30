@@ -1,0 +1,6 @@
+print('single and '+"double quotes")
+print("or","we","can","use","commas")
+print("commas are used for numbers like",1)
+print("I can add\"\" quotes to my string")
+print("or I can do this '!")
+print('or do this "hello!"')
