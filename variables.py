@@ -30,3 +30,10 @@ if x==z:
 else:
     print(x,"does not equals",z)
 
+if x==y:
+    print("x equals y")
+elif x<y:
+    print("x is less than y")
+else:
+    print("x is more than y")
+
